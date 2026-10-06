@@ -1,2 +1,2 @@
-# project_pink_jellyfish
+# Project Pink Jellyfish
 Portfolio Website
