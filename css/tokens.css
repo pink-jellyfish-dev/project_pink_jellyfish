@@ -1,0 +1,21 @@
+:root {
+  color-scheme: dark;
+  --color-background: #101514;
+  --color-surface: #181C1B;
+  --color-text: #f4fffe;
+  --color-muted: #c0d4d2;
+  --color-primary: #F500C4;
+  --color-secondary: #f5ed00;
+  --color-highlight: #f5ed00;
+  --color-extra: #A0358A;
+  --color-accent: var(--color-primary);
+  --color-accent-hover: var(--color-extra);
+  --color-border: #3b5d5b;
+  --color-on-accent: #101514;
+  --content-width: 1080px;
+  --font-display: "Luckiest Guy", "Segoe UI", Arial, sans-serif;
+  --font-body: "Cabin", "Segoe UI", Arial, sans-serif;
+  font-family: var(--font-body);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
